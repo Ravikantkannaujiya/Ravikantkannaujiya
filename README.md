@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ravi Kant Kannaujiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 - 📫 How to reach me **ravikannaujiya12@gmail.com**
 
